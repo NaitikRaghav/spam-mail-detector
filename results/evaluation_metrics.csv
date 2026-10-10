@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1_score,training_samples,testing_samples
+0.9854227405247813,1.0,0.8828125,0.9377593360995851,4116,1029
